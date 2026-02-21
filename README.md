@@ -50,7 +50,8 @@ SEO Content, Scenario Writing & Digital Storytelling
 
 ### 📫 Contact Me
 
-- **LinkedIn:** [www.linkedin.com/in/mina-toodeji](https://www.linkedin.com/in/mina-toodeji)  
-- **Email:** minatoodeji@gmail.com  
+- **LinkedIn:** [mina-toodeji](https://www.linkedin.com/in/mina-toodeji)  
+- **Email:** minatoodeji@gmail.com
+- **Website:** [click here](https://mintdj.github.io/mina.github.io/)
 
 ---
