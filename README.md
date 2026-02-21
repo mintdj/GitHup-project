@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | .NET Core & C# Specialist | E-commerce & WooCommerce Expert
 
-I started my journey in tech at 19, and over the past 6 years, I’ve evolved from a passionate coder into a Full-Stack Developer who knows that great software isn't just about syntax—it's about **user experience** and **business impact**.  
+I started my journey in tech at 19, and over the past 5 years, I’ve evolved from a passionate coder into a Full-Stack Developer who knows that great software isn't just about syntax—it's about **user experience** and **business impact**.  
 
 My core expertise lies in the **.NET Ecosystem (ASP.NET Core & C#)**, where I build robust, high-performance back-ends integrated with optimized **SQL Server** databases. On the front-end, I bridge the gap between functionality and aesthetics using **JavaScript, jQuery, HTML5, and CSS3**.
 
